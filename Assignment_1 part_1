@@ -1,0 +1,18 @@
+Started learning of python for machine learning including various topics like Lists , Dictionary , tuple.
+libraries like Numpy , Pandas , SciktLearn , which has inbuilt function for the implementation of the model required to analysis the data and find the conclusion
+I am still learning the python concepts related to programming
+Data Wrangling which is also called data cleaning is the important step to be done inorder to make our analysis easier
+this includes:-
+    1)Finding missing values and filling them or ignoring them as required
+    2)Removing duplicate or irrelevant values
+    3)Fixing the data having same meaning but differently written.
+    4)bringing the dataset into similar scale to make analysis easier
+    5)assigning the proper values to attributes eg. M=0 , F=1 for gender column
+
+Supervised Learning , where we have labelled dataset and we need to train our model so that we can predict the result when we give our machine the test data
+learned two algo 1) Linear regression 2) Logistics Regression 3)non linear
+
+Unsupervised Learning , where dataset is not labelled and the model itself classify among the data and makes cluster out of it
+algo learned 1) K- means 2)hierarchal - i)AGNES ii) DINES
+
+...Continuing to learn new things..................
